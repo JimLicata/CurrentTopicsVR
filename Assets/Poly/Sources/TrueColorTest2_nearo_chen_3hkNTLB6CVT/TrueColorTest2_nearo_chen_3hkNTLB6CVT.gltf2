@@ -1,0 +1,289 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 2124,
+      "max": [
+        2121.0
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "buffer-0-group-0-mesh-0-indices",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 2122,
+      "max": [
+        0.6385074257850647,
+        1.360069990158081,
+        0.5404177904129028
+      ],
+      "min": [
+        0.0017427799757570028,
+        0.36006999015808105,
+        -0.2128365933895111
+      ],
+      "name": "buffer-0-group-0-mesh-0-position",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 25464,
+      "componentType": 5126,
+      "count": 2122,
+      "max": [
+        0.9999023675918579,
+        0.996658444404602,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999986886978149,
+        -0.999993085861206
+      ],
+      "name": "buffer-0-group-0-mesh-0-normal",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 2122,
+      "max": [
+        0.9898939728736877,
+        -0.005208327900618315
+      ],
+      "min": [
+        0.005208312999457121,
+        -0.993230402469635
+      ],
+      "name": "buffer-0-group-0-mesh-0-texcoord",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4248,
+      "componentType": 5123,
+      "count": 5538,
+      "max": [
+        5280.0
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "buffer-0-group-1-mesh-0-indices",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 50928,
+      "componentType": 5126,
+      "count": 5281,
+      "max": [
+        1.0223040580749512,
+        1.1612470149993896,
+        0.7465317845344543
+      ],
+      "min": [
+        -0.21681079268455505,
+        -0.7051169276237488,
+        -0.427867591381073
+      ],
+      "name": "buffer-0-group-1-mesh-0-position",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 114300,
+      "componentType": 5126,
+      "count": 5281,
+      "max": [
+        0.994539201259613,
+        1.0,
+        0.9945392608642578
+      ],
+      "min": [
+        -0.9945395588874817,
+        -1.0,
+        -0.9998709559440613
+      ],
+      "name": "buffer-0-group-1-mesh-0-normal",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16976,
+      "componentType": 5126,
+      "count": 5281,
+      "max": [
+        0.9947772026062012,
+        -0.005208312999457121
+      ],
+      "min": [
+        0.005208312999457121,
+        -0.9932541847229004
+      ],
+      "name": "buffer-0-group-1-mesh-0-texcoord",
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Obj2GltfConverter",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 15324,
+      "byteOffset": 0,
+      "name": "buffer-0-bufferview-ushort",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 177672,
+      "byteOffset": 15324,
+      "byteStride": 12,
+      "name": "buffer-0-bufferview-vec3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 59224,
+      "byteOffset": 193000,
+      "byteStride": 8,
+      "name": "buffer-0-bufferview-vec2",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 252224,
+      "name": "buffer-0",
+      "uri": "UploadObj.bin"
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/png",
+      "name": "combineMesh___0__BlocksPaper_(Instance) (Instance)-diffuse-image",
+      "uri": "combineMesh___0__BlocksPaper_(Instance) (Instance).png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "combineMesh___1__BlocksPaper_(Instance) (Instance)-diffuse-image",
+      "uri": "combineMesh___1__BlocksPaper_(Instance) (Instance).png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "name": "combineMesh___0__BlocksPaper_(Instance) (Instance)",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9699476628648295
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "name": "combineMesh___1__BlocksPaper_(Instance) (Instance)",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9699476628648295
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "buffer-0-mesh-0",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "node-0"
+    }
+  ],
+  "samplers": [
+    {
+      "name": "combineMesh___0__BlocksPaper_(Instance) (Instance)-diffuse-sampler",
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "name": "combineMesh___1__BlocksPaper_(Instance) (Instance)-diffuse-sampler",
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scenes": [
+    {
+      "name": "scene-0",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "combineMesh___0__BlocksPaper_(Instance) (Instance)-diffuse-texture",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "combineMesh___1__BlocksPaper_(Instance) (Instance)-diffuse-texture",
+      "sampler": 1,
+      "source": 1
+    }
+  ]
+}

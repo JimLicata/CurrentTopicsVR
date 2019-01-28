@@ -1,0 +1,37 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Arwing Star Fox
+Author: HATman
+URL: https://poly.google.com/view/6CwKWHyvDpA
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Chair
+Author: Kym Schutz
+URL: https://poly.google.com/view/bHhF8KtePJa
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: fox with pylon hat j17
+Author: Joe Connolly
+URL: https://poly.google.com/view/as13i4iVpwL
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: petblo cyber street 2
+Author: Petroleum Blownapart
+URL: https://poly.google.com/view/2M9FN2nOSRd
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Rubik's Cube
+Author: NikNik Skywalker (NikNikSkywalker)
+URL: https://poly.google.com/view/6gRthHaWhq3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: TrueColorTest2
+Author: nearo chen
+URL: https://poly.google.com/view/3hkNTLB6CVT
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
