@@ -18,15 +18,27 @@ URL: https://poly.google.com/view/as13i4iVpwL
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
-Title: petblo cyber street 2
-Author: Petroleum Blownapart
-URL: https://poly.google.com/view/2M9FN2nOSRd
+Title: Office Chair
+Author: Ryan Donaldson
+URL: https://poly.google.com/view/3txPAhYeu-x
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Pc
+Author: Christian Robinson
+URL: https://poly.google.com/view/adue5znXD6K
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
 Title: Rubik's Cube
 Author: NikNik Skywalker (NikNikSkywalker)
 URL: https://poly.google.com/view/6gRthHaWhq3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: SNES
+Author: Gabriel Valdivia
+URL: https://poly.google.com/view/7yVvvpp-ftQ
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 

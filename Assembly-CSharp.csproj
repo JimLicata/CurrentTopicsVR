@@ -233,6 +233,7 @@
     <Compile Include="Assets\Scripts\TeleportationHandler.cs" />
     <None Include="Assets\Textures\attribute.txt" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Bubbles\Bubbles.shader" />
+    <None Include="Assets\Poly\Sources\Pc_Christian_Robinson_adue5znXD6K\FileNameMapping.txt" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\SoftHighlighter\SoftHighlighter.shader" />
     <None Include="Assets\PolyToolkit\Shaders\PolyToolkitPbrOpaqueDoubleSided.shader" />
     <None Include="Assets\Poly\Resources\PolyAttributions.txt" />
@@ -252,6 +253,7 @@
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Highlighter\AdditiveCutout.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Shaders\Include\Brush.cginc" />
+    <None Include="Assets\Poly\Sources\SNES_Gabriel_Valdivia_7yVvvpp_ftQ\FileNameMapping.txt" />
     <None Include="Assets\Poly\Sources\Chair_Kym_Schutz_bHhF8KtePJa\FileNameMapping.txt" />
     <None Include="Assets\PolyToolkit\ThirdParty\GPU-Voronoi-Noise\Assets\GPUVoronoiNoise\Shader\BlocksGemGPUVoronoiNoise.cginc" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Petal\Petal.shader" />
@@ -259,6 +261,7 @@
     <None Include="Assets\Poly\Sources\petblo_cyber_street_2_Petroleum_Blownapart_2M9FN2nOSRd\FileNameMapping.txt" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\VelvetInk\VelvetInk.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Stars\Stars.shader" />
+    <None Include="Assets\Poly\Sources\Office_Chair_Ryan_Donaldson_3txPAhYeu_x\FileNameMapping.txt" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Shared\Shaders\Bloom.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Embers\Embers.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Blocks\BlocksPaper\BlocksPaper.shader" />
