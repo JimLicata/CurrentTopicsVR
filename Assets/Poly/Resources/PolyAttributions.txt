@@ -6,15 +6,63 @@ URL: https://poly.google.com/view/6CwKWHyvDpA
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: asteroids white
+Author: Gareth Bunting
+URL: https://poly.google.com/view/1NSL0scwhLy
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Chair
 Author: Kym Schutz
 URL: https://poly.google.com/view/bHhF8KtePJa
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Closet
+Author: Poly by Google
+URL: https://poly.google.com/view/2qdm7DZVG94
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Closet
+Author: Poly by Google
+URL: https://poly.google.com/view/0Cuf7Rv4SfV
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Comet
+Author: Poly by Google
+URL: https://poly.google.com/view/ffzZSJOorck
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Couch | Wde
+Author: Danny Bittman
+URL: https://poly.google.com/view/7Q_Ab2HLll1
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: fox with pylon hat j17
 Author: Joe Connolly
 URL: https://poly.google.com/view/as13i4iVpwL
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: HOD Asteroid Loop LOW by Sutu
+Author: Sutu Eats Flies
+URL: https://poly.google.com/view/f0dq0aIATqZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: KARE -TV stand
+Author: Teddy Gude
+URL: https://poly.google.com/view/cdaYXv8Rngf
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lightbulb
+Author: Poly by Google
+URL: https://poly.google.com/view/fX-TdDiGv5V
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -30,9 +78,45 @@ URL: https://poly.google.com/view/adue5znXD6K
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Pluto
+Author: Kyle Clark
+URL: https://poly.google.com/view/et7ufixApgc
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Pop soda
+Author: Michael
+URL: https://poly.google.com/view/3QosDErKSGD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: rabuck
+Author: Rogan Berr
+URL: https://poly.google.com/view/a64eRR4rWiv
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Rubik's Cube
 Author: NikNik Skywalker (NikNikSkywalker)
 URL: https://poly.google.com/view/6gRthHaWhq3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Rug
+Author: Poly by Google
+URL: https://poly.google.com/view/epuypdA3tpO
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Saturn
+Author: Kyle Clark
+URL: https://poly.google.com/view/9R6EQhBsvTy
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Side table
+Author: Darwin Yamamoto
+URL: https://poly.google.com/view/dfL6q_VTWVf
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -42,8 +126,26 @@ URL: https://poly.google.com/view/7yVvvpp-ftQ
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Space Meteor
+Author: Willamy Coulthard
+URL: https://poly.google.com/view/8lcJxmzj9yN
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: TrueColorTest2
 Author: nearo chen
 URL: https://poly.google.com/view/3hkNTLB6CVT
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: TV
+Author: Alex “SAFFY” Safayan
+URL: https://poly.google.com/view/3AvNxE4RRYx
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Venus Model
+Author: Kyle Clark
+URL: https://poly.google.com/view/2155rwnjIn7
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode

@@ -7,37 +7,39 @@ using UnityEngine.EventSystems;
 
 public class FuseButton : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler {
 
-    public Image ringImage;
     private float startTime;
 
     public UnityEvent fuseTriggered; 
 
-    void Awake()
+    void Start()
     {
-        ringImage.enabled = false;
     }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
         StopAllCoroutines();
         startTime = Time.time;
-        ringImage.enabled = true;
         StartCoroutine(ProcessFuse());
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
         StopAllCoroutines();
-        ringImage.enabled = false;
+        ProgressRing.current.ringImage.enabled = false;
     }
 
     IEnumerator ProcessFuse()
     {
+        Image ringImage = ProgressRing.current.ringImage;
         float elapsed;
+
+        ringImage.enabled = true;
+
         while((elapsed = Time.time - startTime) < 2.0f) {
             ringImage.fillAmount = elapsed / 2.0f;
             yield return new WaitForFixedUpdate();
         }
+
         Debug.Log("Fuse Triggered.");
         fuseTriggered.Invoke();
         ringImage.enabled = false;
